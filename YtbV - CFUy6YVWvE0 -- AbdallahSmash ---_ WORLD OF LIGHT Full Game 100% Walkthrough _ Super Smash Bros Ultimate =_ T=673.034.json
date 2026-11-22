@@ -10,5 +10,15 @@
   "capturedAt": "2026-11-22T04:33:08.158Z",
   "mediaBlobSha": "9c575b7781b15504af3f60af3c4c689637552ffb",
   "note": "",
-  "annotations": []
+  "annotations": [
+    {
+      "id": "1795322516771_fs3k",
+      "type": "pin",
+      "x": 0.1337,
+      "y": 0.2059,
+      "w": 0,
+      "h": 0,
+      "label": ""
+    }
+  ]
 }
